@@ -1,0 +1,77 @@
+.list li , .button-group .logo {
+    float: left;
+    display: block;
+}
+.nav-button{
+    position: absolute;
+    left: 1200px;
+    top: 25px;
+    font-size: 15px;
+    padding: 10px 15px;
+    background-color: #2222b6;
+    color: #ffffff;
+    border-radius: 10px;
+  }
+.list{
+    position: absolute;
+    float: left;
+    font-family: "Poppins" ,"serif";
+    font-weight: 100;
+    left: 350px;
+    top: 15px
+}
+.list-item{
+    margin: 10px 20px;
+    font-size: 15px;
+}
+.img-main img{
+    position: absolute;
+    left: 660px;
+    top: 125px;
+    width: 750px;
+}
+.banner-container{
+    display: block;
+    width: 25%;
+    margin-top: 150px;
+    margin-left: 80px;
+}
+.logo{
+   position: relative;
+   left: 80px;
+   top: 20px;
+}
+.logo img{
+    width: 100px;
+}
+.heading-text{
+    font-size: 50px;
+    font-family: "Poppins" ,"serif";
+    color: #342b63;
+}
+.nav-button-btn{
+    position: absolute;
+    width: 250px;
+    height: 40px;
+    font-size: 15px;
+    color: #ffffff;
+    background-color: #2222b6;
+    top: 530px;
+    border-radius: 10px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    border-left: 125px solid #000000;
+    height: 100vh;
+    border-right: 125px solid #000000;
+}
+span{
+    color: #435d97;
+}
+.description{
+    position: relative;
+    top: 15px;
+}
